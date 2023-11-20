@@ -1,0 +1,7 @@
+POST http://localhost:8080/api/v1/customer/add
+Content-Type: application/json
+Body:
+{
+    "name": "John",
+    "phone": "0363893545",
+}
